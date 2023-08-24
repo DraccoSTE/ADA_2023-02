@@ -1,2 +1,3 @@
 # ADA_2023-02
-A
+Alumno: Sebastián Tinajeros Estrada
+Laboratorio 01: LAB01
